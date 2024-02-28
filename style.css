@@ -155,6 +155,10 @@ ul li a:hover {
   background: var(--highlight-color);
 }
 
+.oculto {
+  display: none;
+}
+
 /*footer*/
 
 footer {
